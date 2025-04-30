@@ -1,0 +1,13 @@
+Data Version Control (DVC) is a method of tracking changes in data and machine learning models, 
+just like Git does for code. 
+In MLOps (Machine Learning Operations), 
+DVC plays a crucial role in ensuring reproducibility, collaboration, and scalability of ML workflows.
+
+What is DVC (Data Versio?n Control)
+DVC is an open-source tool built to bring data, model, and pipeline versioning into software engineering practices like Git. It's developed by Iterative.ai.
+
+
+Steps:
+1. Create git repo and clone it in local.
+2. Create code_1.py and add code to it. (it will save a csv file to a new "data" folder)
+3. Do a git add-commit-push before initializing dvc.
